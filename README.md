@@ -4,6 +4,8 @@ If you've ever written something using ChatGPT, Claude, or any other AI tool, yo
 
 That's where TwainGPT comes in. It's an AI humanizer built to do one thing really well: take your AI-generated text and rewrite it so it sounds like a real human wrote it, while bypassing every major AI detector in the process.
 
+![TwainGPT Landing Page](twaingpt-landing-page.png)
+
 ## What Is TwainGPT?
 
 TwainGPT is an AI humanizer that transforms AI-generated content into natural, undetectable writing using advanced algorithms. Simply paste your AI text and TwainGPT rewrites it to sound human, bypassing leading detectors like GPTZero, ZeroGPT, Copyleaks, Turnitin, QuillBot, and Grammarly, all without changing the original meaning of your text.
@@ -61,6 +63,8 @@ TwainGPT offers a free plan so you can try the platform before committing to a p
 1. **Freemium Model** — TwainGPT operates on a freemium model. You can use it for free, but heavier usage or longer documents will require upgrading to a paid plan.
 
 2. **No Offline Access** — TwainGPT is a web-based platform so you need an internet connection to use it.
+
+![TwainGPT Dashboard](twaingpt-dashboard.webp)
 
 ## Why TwainGPT Stands Out
 
