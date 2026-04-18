@@ -74,4 +74,4 @@ Whether you are a casual user or someone who produces content at scale, TwainGPT
 
 ## Get Started
 
-Visit [TwainGPT](https://www.twaingpt.com) to start humanizing your AI content today.
+Visit [TwainGPT](https://www.twaingpt.com?ref-donauth) to start humanizing your AI content today.
