@@ -1,4 +1,4 @@
-# TwainGPT
+# TwainGPT — AI Humanizer That Bypasses Every AI Detector
 
 If you've ever written something using ChatGPT, Claude, or any other AI tool, you already know the problem. The content is good, but it reads like a robot wrote it. And with AI detectors like Turnitin, GPTZero, and Copyleaks getting smarter every day, that's a real issue for students, writers, and professionals.
 
